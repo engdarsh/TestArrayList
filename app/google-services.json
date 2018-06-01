@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1041469142996",
+    "firebase_url": "https://testarraylist.firebaseio.com",
+    "project_id": "testarraylist",
+    "storage_bucket": "testarraylist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041469142996:android:18a18c079b21c450",
+        "android_client_info": {
+          "package_name": "com.example.mostafahassan.testarraylist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041469142996-vtk44rg92q2qjsb2q0n9i27nqnt67u6r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1041469142996-vtk44rg92q2qjsb2q0n9i27nqnt67u6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnNAzHS9DG_jh4a9c9Ar_qMJmPFwOCroY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
