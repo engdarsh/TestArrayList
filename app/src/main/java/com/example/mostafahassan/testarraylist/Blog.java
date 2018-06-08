@@ -2,7 +2,7 @@ package com.example.mostafahassan.testarraylist;
 
 public class Blog {
 
-    private String childName, date, weight, gender, idNum, birthDay, incNum;
+    private String childName, date, weight, gender, idNum, birthDay, IncNum;
 
     private String title;
 
@@ -21,7 +21,7 @@ public class Blog {
         this.gender = gender;
         this.idNum = idNum;
         this.birthDay = birthDay;
-        this.incNum = incNum;
+        this.IncNum = incNum;
     }
 
     public String getTitle() {
@@ -81,10 +81,10 @@ public class Blog {
     }
 
     public String getIncNum() {
-        return incNum;
+        return IncNum;
     }
 
     public void setIncNum(String incNum) {
-        this.incNum = incNum;
+        this.IncNum = incNum;
     }
 }

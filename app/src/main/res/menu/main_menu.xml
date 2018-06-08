@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
+
     <item
         android:id="@+id/action_add"
-        android:icon="@drawable/ic_add_24dp"
-        android:title="@string/add_post"
-        app:showAsAction="always" />
+        android:title="Add Incubator"
+    />
+
     <item
-        android:id="@+id/refresh"
-        android:title="Refresh"
-        app:showAsAction="always" />
+        android:id="@+id/Add_user"
+        android:title="Add User"
+    />
+    <item
+        android:id="@+id/Remove_user"
+        android:title="Remove User"
+        />
+    <item
+        android:id="@+id/Log_Out"
+        android:title="Log Out"
+        />
 
 </menu>

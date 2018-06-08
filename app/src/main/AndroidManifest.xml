@@ -16,9 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <activity android:name=".PostActivity" />
-        <activity android:name=".BlogSingleActivity"></activity>
+        <activity android:name=".BlogSingleActivity" />
+        <activity android:name=".AddUser" />
+        <activity android:name=".RemoveUser"></activity>
+        <activity android:name=".IncubatorsTable"></activity>
     </application>
 
 </manifest>
